@@ -1,0 +1,6 @@
+{
+  "name": "TECNIC MEDTECH - Cổng Thông Tin & Báo Cáo Y Tế Toàn Diện",
+  "description": "Website chính thức Tập đoàn TECNIC và TECNIC MEDTECH. Giải pháp toàn diện - Tái sinh cuộc sống. Hệ thống giới thiệu doanh nghiệp, viết và quản lý báo cáo y tế, giải pháp thiết bị công nghệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
